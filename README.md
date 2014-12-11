@@ -1,4 +1,4 @@
-agitstory
-=========
+A git story
+===========
 
-A story to explain how git works.
+A hopfully funny story to explain how git works.
